@@ -1,0 +1,58 @@
+.contarnerprnc {
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+   flex-direction: ;
+    width:90$;
+    height: 90%;
+    
+
+}
+
+
+.profumoimg{
+    width: 150px;
+    height: 100%;
+
+}
+
+.card {
+    /* display: grid;
+    columns: 2; */
+    width: 600px;
+    height: 450px;
+    display: flex;
+    justify-content: ;
+    border: 1px solid black;
+    margin-top: 30px;
+
+
+}
+
+h1{
+    display: block;
+}
+
+.vicino {
+    display: block;
+    justify-content: flex-end;
+}
+
+.linea {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pulsante {
+    padding: 20px;
+    margin: 10px;
+    width: 80%;
+    background-color: green;
+    text-align: center;
+    float: inline-end;
+}
+
+.testo1 {
+   margin-left: 30px; 
+   padding: 20px;
+}
